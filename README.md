@@ -1,2 +1,2 @@
 # Angular Material Links
-** https://material.angular.io/guide/schematics#install-schematics **
+### https://material.angular.io/guide/schematics#install-schematics
